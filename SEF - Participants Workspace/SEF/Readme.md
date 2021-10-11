@@ -8,7 +8,7 @@ in GitBash - git checkout -b [your_name] (git checkout -b ArtursSmirnovs1994).
 
 git push --set-upstream origin [your_name].
 
-in GitBash - git clone https://github.com/[name_of_your_git_user]/JavaBootcamp.git.
+in GitBash - git clone https://github.com/[name_of_your_git_user]/JavaAutum2021.git.
 
 git pull - get last version.
 
