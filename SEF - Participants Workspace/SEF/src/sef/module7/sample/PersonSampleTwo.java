@@ -4,6 +4,8 @@ public class PersonSampleTwo {
 
 	private String name;
 	private int age;
+	private String gender;
+	private String eyeColor = "blue";
 	
 	public PersonSampleTwo(String name, int age){
 		setName(name);
@@ -31,4 +33,18 @@ public class PersonSampleTwo {
 		}
 		this.age = age;
 	}
+
+	public String getGender(){
+		return this.gender;
+	}
+
+	public void setGender(String gender){
+		if gender.equals("male") || gender.equals("female")
+				this.gender = gender}
+						else {
+							throw new illegalArgumentException ("only 2 genders");
+	}
+	}
+
+
 }

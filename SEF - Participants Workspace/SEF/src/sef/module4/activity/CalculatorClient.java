@@ -35,7 +35,7 @@ public class CalculatorClient {
 
 		// Divide
 
-		result = normalCalc.divide(0,3);
+		result = normalCalc.divide(0,1);
 		System.out.println("4) Division result is " + result);
 
 

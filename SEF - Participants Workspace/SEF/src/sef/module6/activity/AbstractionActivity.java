@@ -11,6 +11,6 @@ public class AbstractionActivity {
         System.out.println("--print the information for rectangle-");
         System.out.println("area of rectangle " + rectangle.calculateArea());
         System.out.println("perimeter of rectangle " + rectangle.calculatePerimeter());
-        System.out.println("rectangle color " + rectangle.color);
+        System.out.println("rectangle color is " + rectangle.color);
     }
 }

@@ -1,4 +1,7 @@
 package sef.module8.sample;
+
+import java.util.Locale;
+
 // Needs to be completed
 public class TryCatchFinallySample {
 
@@ -7,7 +10,8 @@ public class TryCatchFinallySample {
 	
 	public static void main(String[] args) {
 		//1 - Create an instance of TryCatchFinallySample and call catchMeIfYouCan()
-		
+		TryCatchFinallySample tryCatchFinallySample = new TryCatchFinallySample();
+		tryCatchFinallySample.catchMeIfYouCan();
 	}
 	
 	public void catchMeIfYouCan()
@@ -24,7 +28,11 @@ public class TryCatchFinallySample {
 		//Lets see how do we handle this
 		//2 - put the above print statement inside a try catch block 
 		
-		
+		try {
+			System.out.println(str.toUpperCase());
+		} catch (NullPointerException exception) {
+			System.out.println("a var isn't init");
+		}
 		
 		
 	}
