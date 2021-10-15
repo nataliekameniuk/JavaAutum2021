@@ -10,7 +10,7 @@
       <directory url="file://$PROJECT_DIR$/src/sef/module13" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module7" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module10" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/sef/module3" includeSubdirectories="false" />
+      <directory url="file://$PROJECT_DIR$/src/sef/module3" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module15" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module11" includeSubdirectories="true" />
       <file url="file://$PROJECT_DIR$/src/sef/module17/activity/Employee.java" />
@@ -19,6 +19,17 @@
       <file url="file://$PROJECT_DIR$/src/sef/module17/activity/Module 17 Activity - Test Scenarios and Conditions.xls" />
       <directory url="file://$PROJECT_DIR$/src/sef/module17" includeSubdirectories="true" />
       <file url="file://$PROJECT_DIR$/src/sef/module8/activity/ExceptionSequenceActivity.java" />
+      <directory url="file://$PROJECT_DIR$/src/sef/module4" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/sef/module5" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/sef/module6" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/sef/module8" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/sef/module8/activity" includeSubdirectories="true" />
+      <file url="file://$PROJECT_DIR$/src/sef/module8/activity/ArithmeticExceptionActivity.java" />
+      <file url="file://$PROJECT_DIR$/src/sef/module8/activity/CustomExceptionActivity.java" />
+      <file url="file://$PROJECT_DIR$/src/sef/module8/activity/CustomExceptionActivityTest.java" />
+      <file url="file://$PROJECT_DIR$/src/sef/module8/activity/SQLExceptionActivity.java" />
+      <file url="file://$PROJECT_DIR$/src/sef/module8/activity/TryCatchFinallyActivity.java" />
+      <directory url="file://$PROJECT_DIR$/src/sef/module8/sample" includeSubdirectories="true" />
     </excludeFromCompile>
   </component>
 </project>
